@@ -1,0 +1,6 @@
+/==============================================================================\
+|                                 R E A D M E                                  |
+\==============================================================================/
+
+Please read the python documentation written in the beginning of the script
+idle-detector.py and run `./idle-detector.py -h`.
